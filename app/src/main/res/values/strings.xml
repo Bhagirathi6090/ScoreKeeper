@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="_a">2 points</string>
+    <string name="_1_point_a">1 point</string>
+    <string name="reset">reset</string>
+    <string name="foul_a">foul</string>
+    <string name="_1_point_b">1 point</string>
+    <string name="_2_points_b">2 points</string>
+    <string name="_3_points_a">3 points</string>
+    <string name="_0_a">0</string>
+    <string name="team_b">Team B</string>
+    <string name="foul_b">foul</string>
+    <string name="_3_points_b">3 points</string>
+    <string name="_0_b">0</string>
+    <string name="team_a">Team A</string>
+</resources>
